@@ -1,0 +1,28 @@
+_repo: Henry-Irving-s-Impressions-of-America-Narrated-in-a-Series-of-Sketches-Chronicles-and-Convers__52357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hatton, Joseph
+    birthdate: 1841
+    deathdate: 1907
+    gutenberg_agent_id: '46810'
+    url: http://www.gutenberg.org/2009/agents/46810
+description: ''
+gutenberg_issued: '2016-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irving, Henry, Sir, 1838-1905 -- Travel -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Actors -- Great Britain -- Biography'
+- !lcc 'E151'
+- !lcsh 'British -- United States -- History -- 19th century'
+- GITenberg
+title: "Henry Irving's Impressions of America\r\nNarrated in a Series of Sketches,\
+  \ Chronicles, and Conversations"
+url: http://www.gutenberg.org/ebooks/52357
